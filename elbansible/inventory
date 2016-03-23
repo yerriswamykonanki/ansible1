@@ -1,0 +1,13 @@
+[webservers]
+12.12.12.12
+11.11.11.11
+10.10.10.11
+10.10.10.10
+
+datacenters:children]
+webservers
+[datacenters:vars]
+ansible_ssh_user=swamy
+ansible_ssh_pass=WElcome@1234
+ansible_sudo_pass=WElcome@1234
+
