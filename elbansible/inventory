@@ -1,8 +1,4 @@
 [webservers]
-12.12.12.12
-11.11.11.11
-10.10.10.11
-10.10.10.10
 
 datacenters:children]
 webservers
