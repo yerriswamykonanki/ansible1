@@ -6,4 +6,4 @@ webservers
 ansible_ssh_user=swamy
 ansible_ssh_pass=WElcome@1234
 ansible_sudo_pass=WElcome@1234
-
+####
